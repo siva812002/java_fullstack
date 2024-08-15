@@ -1,8 +1,10 @@
 # Java Full Stack
 Spring Boot for backend + React for frontend,
 I built this Java Full Stack application using MySQL, Java, Spring Boot, REST API, and React
-1)
+aws:(rds,ec2,s3)
+![image](https://github.com/user-attachments/assets/a211ef44-8a08-4c0c-a1e0-b399ee5cffc8)
 
+local:
 ![1](https://github.com/user-attachments/assets/4d8de709-9847-40bd-89c3-66442f65e19a)
 
 ![2](https://github.com/user-attachments/assets/22b93c74-ec04-4085-99ff-44fb835f614f)
