@@ -2,6 +2,9 @@
 Spring Boot for backend + React for frontend,
 I built this Java Full Stack application using MySQL, Java, Spring Boot, REST API, and React
 aws:(rds,ec2,s3)
+aws migration  jar file:
+ https://drive.google.com/file/d/1cHtVFeGMWMl93Dscj-r9airONaUf_hri/view?usp=sharing
+ 
 ![image](https://github.com/user-attachments/assets/a211ef44-8a08-4c0c-a1e0-b399ee5cffc8)
 
 local:
