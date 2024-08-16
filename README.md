@@ -4,6 +4,11 @@ I built this Java Full Stack application using MySQL, Java, Spring Boot, REST AP
 aws migration  jar file:
  https://drive.google.com/file/d/1cHtVFeGMWMl93Dscj-r9airONaUf_hri/view?usp=sharing
  
+ ![image](https://github.com/user-attachments/assets/0c88ce3c-27d0-42db-b684-6caff9e49b8a)
+ 
+ ![image](https://github.com/user-attachments/assets/e00cf9f5-0b68-408b-8478-a97b9bbcc99a)
+
+
 ![image](https://github.com/user-attachments/assets/a211ef44-8a08-4c0c-a1e0-b399ee5cffc8)
 
 local:
